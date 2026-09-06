@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:160309,50:881337,100:dc143c&height=210&section=header&text=Bart%C5%82omiej%20Seroka&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=IT%20Support%20%E2%80%A2%20Networking%20%E2%80%A2%20Automation&descSize=18&descAlignY=60" alt="Bartłomiej Seroka"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:160309,50:881337,100:dc143c&height=190&section=header&text=Bart%C5%82omiej%20Seroka&fontSize=48&fontColor=ffffff&fontAlignY=42" alt="Bartłomiej Seroka"/>
 
 </div>
 
