@@ -2,7 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:160309,50:881337,100:dc143c&height=210&section=header&text=Bart%C5%82omiej%20Seroka&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=IT%20Support%20%E2%80%A2%20Networking%20%E2%80%A2%20Automation&descSize=18&descAlignY=60" alt="Bartłomiej Seroka"/>
 
-
 </div>
 
 ## About me
@@ -86,15 +85,28 @@ Flask application for generating Code 128 inventory barcodes from JSON data.
 
 </td>
 </tr>
-</table>
+
+<tr>
+<td colspan="2" valign="top">
 
 ### [Area Intruders](https://github.com/krez1giusz/Area-Intruders)
 
-Java Swing arcade game with configurable difficulty, spaceship selection,
-scoring, pause controls, and a local leaderboard.
+Java Swing arcade game inspired by Space Invaders.
+
+- Configurable difficulty and enemy layout
+- Three selectable spaceship models
+- Keyboard and on-screen controls
+- Pause system and responsive game board
+- Local TOP 10 leaderboard
+- File-based score persistence
 
 ![Java](https://img.shields.io/badge/Java-160309?style=flat-square&logo=openjdk&logoColor=fb7185)
 ![Swing](https://img.shields.io/badge/Java_Swing-160309?style=flat-square&logo=coffeescript&logoColor=fb7185)
+![Desktop](https://img.shields.io/badge/Desktop_Game-160309?style=flat-square&logo=gamemaker&logoColor=fb7185)
+
+</td>
+</tr>
+</table>
 
 ## Technologies
 
@@ -104,14 +116,6 @@ scoring, pause controls, and a local leaderboard.
 
 </div>
 
-## GitHub statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=krez1giusz&show_icons=true&theme=transparent&hide_border=true&title_color=dc143c&icon_color=fb7185&text_color=a1a1aa&ring_color=dc143c" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krez1giusz&layout=compact&theme=transparent&hide_border=true&title_color=dc143c&text_color=a1a1aa&langs_count=6" alt="Most used languages"/>
-
-</div>
 
 <div align="center">
 
