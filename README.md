@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:160309,45:7f1d2d,100:dc143c&height=220&section=header&text=Bart%C5%82omiej%20Seroka&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=IT%20Support%20%E2%80%A2%20Networking%20%E2%80%A2%20Automation&descSize=18&descAlignY=60" alt="Bartłomiej Seroka"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:160309,45:7f1d2d,100:dc143c&height=210&section=header&text=Bart%C5%82omiej%20Seroka&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=IT%20Support%20%E2%80%A2%20Networking%20%E2%80%A2%20Automation&descSize=18&descAlignY=60" alt="Bartłomiej Seroka"/>
 
 <img src="https://img.shields.io/badge/IT_SUPPORT-160309?style=for-the-badge&logo=windows&logoColor=fb7185" alt="IT Support"/>
 <img src="https://img.shields.io/badge/NETWORKING-160309?style=for-the-badge&logo=cisco&logoColor=fb7185" alt="Networking"/>
@@ -10,95 +10,43 @@
 
 ## About me
 
-IT Support specialist focused on networking, technical automation, system
-diagnostics, and development of practical internal tools.
+IT Support specialist and software developer focused on network tools,
+technical automation, system diagnostics, and internal utilities.
 
-```yaml
-name: Bartłomiej Seroka
-location: Poland
-focus:
-  - IT Support
-  - Network Administration
-  - Systems and Diagnostics
-  - Process Automation
-```
+- Windows and Linux environments
+- Network configuration and troubleshooting
+- Python and PowerShell automation
+- Desktop and backend application development
 
-## Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,powershell,cpp,java,ts,lua,flask,html,css,windows,linux,docker,git,github,sqlite&theme=dark&perline=8" alt="Technologies"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Python-160309?style=flat-square&logo=python&logoColor=fb7185" alt="Python"/>
-<img src="https://img.shields.io/badge/PowerShell-160309?style=flat-square&logo=powershell&logoColor=fb7185" alt="PowerShell"/>
-<img src="https://img.shields.io/badge/C++-160309?style=flat-square&logo=cplusplus&logoColor=fb7185" alt="C++"/>
-<img src="https://img.shields.io/badge/Java-160309?style=flat-square&logo=openjdk&logoColor=fb7185" alt="Java"/>
-<img src="https://img.shields.io/badge/TypeScript-160309?style=flat-square&logo=typescript&logoColor=fb7185" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Lua-160309?style=flat-square&logo=lua&logoColor=fb7185" alt="Lua"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Windows-160309?style=flat-square&logo=windows&logoColor=fb7185" alt="Windows"/>
-<img src="https://img.shields.io/badge/Linux-160309?style=flat-square&logo=linux&logoColor=fb7185" alt="Linux"/>
-<img src="https://img.shields.io/badge/Docker-160309?style=flat-square&logo=docker&logoColor=fb7185" alt="Docker"/>
-<img src="https://img.shields.io/badge/Git-160309?style=flat-square&logo=git&logoColor=fb7185" alt="Git"/>
-<img src="https://img.shields.io/badge/SQLite-160309?style=flat-square&logo=sqlite&logoColor=fb7185" alt="SQLite"/>
-<img src="https://img.shields.io/badge/TCP%2FIP-160309?style=flat-square&logo=cisco&logoColor=fb7185" alt="TCP/IP"/>
-
-</div>
-
-## Technical areas
+## Featured projects
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-### Networking
+### [Switch Multi Tool](https://github.com/krez1giusz/Switch-Multi-Tool)
 
-TCP/IP · DHCP · DNS  
-IPv4 configuration  
-TCP port diagnostics  
-Serial communication
+GUI toolkit for servicing Cisco IOS switches through a serial console.
 
-</td>
-<td width="33%" align="center">
+- Password verification and recovery
+- Device information collection
+- Session logs and XLSX reports
+- Order spreadsheet reconciliation
 
-### Systems
-
-Windows · Linux  
-PowerShell  
-Hardware diagnostics  
-Technical support
+![Python](https://img.shields.io/badge/Python-160309?style=flat-square&logo=python&logoColor=fb7185)
+![Cisco](https://img.shields.io/badge/Cisco_IOS-160309?style=flat-square&logo=cisco&logoColor=fb7185)
+![SQLite](https://img.shields.io/badge/SQLite-160309?style=flat-square&logo=sqlite&logoColor=fb7185)
 
 </td>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-### Development
+### [Network Multi Tool](https://github.com/krez1giusz/network-multi-tool)
 
-Python · C++ · Java  
-Desktop applications  
-Backend utilities  
-Process automation
+Windows application for IPv4 configuration and network diagnostics.
 
-</td>
-</tr>
-</table>
+- DHCP and static IPv4 configuration
+- Network adapter monitoring
+- Ping diagnostics
+- TCP port testing
 
-## GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=krez1giusz&show_icons=true&theme=transparent&hide_border=true&title_color=dc143c&icon_color=fb7185&text_color=a1a1aa&ring_color=dc143c" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krez1giusz&layout=compact&theme=transparent&hide_border=true&title_color=dc143c&text_color=a1a1aa&langs_count=6" alt="Most used languages"/>
-
-<br>
-
-<a href="https://github.com/krez1giusz?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-dc143c?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-</a>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:160309,45:7f1d2d,100:dc143c&height=110&section=footer" alt="Footer"/>
-
-</div>
+![Python](https://img.shields.io/badge/Python-160309?style=flat-square&logo=
