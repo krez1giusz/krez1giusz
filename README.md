@@ -2,9 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:160309,50:881337,100:dc143c&height=210&section=header&text=Bart%C5%82omiej%20Seroka&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=IT%20Support%20%E2%80%A2%20Networking%20%E2%80%A2%20Automation&descSize=18&descAlignY=60" alt="Bartłomiej Seroka"/>
 
-<img src="https://img.shields.io/badge/IT_SUPPORT-160309?style=for-the-badge&logo=windows&logoColor=fb7185" alt="IT Support"/>
-<img src="https://img.shields.io/badge/NETWORKING-160309?style=for-the-badge&logo=cisco&logoColor=fb7185" alt="Networking"/>
-<img src="https://img.shields.io/badge/AUTOMATION-160309?style=for-the-badge&logo=python&logoColor=fb7185" alt="Automation"/>
 
 </div>
 
